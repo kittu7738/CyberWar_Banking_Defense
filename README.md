@@ -17,11 +17,11 @@
 
 ---
 
-## 📌 Executive Summary & Resume Highlights
+## 📌 Executive Overview
 
-**CyberWar Banking Defense** is a full-stack cybersecurity simulation and capital allocation platform designed to model cascading systemic contagion across interconnected tier-1 financial infrastructure. Built with an **npm workspaces TypeScript monorepo** (`React 18 + Vite` frontend, `Express` backend, and `D3.js` network graph engine), the system allows executive decision-makers to simulate sophisticated threat campaigns, optimize defensive security budgets under diminishing returns, analyze systemic single-points-of-failure (SPOFs), and execute structured incident response drills.
+**CyberWar Banking Defense** is an enterprise cybersecurity simulation and capital allocation platform designed to model cascading systemic contagion across interconnected tier-1 financial infrastructure. Built with an **npm workspaces TypeScript monorepo** (`React 18 + Vite` frontend, `Express` backend, and `D3.js` network graph engine), the system allows executive decision-makers to simulate sophisticated threat campaigns, optimize defensive security budgets under diminishing returns, analyze systemic single-points-of-failure (SPOFs), and execute structured incident response drills.
 
-### 💼 Key Engineering Accomplishments (Resume Bullets)
+### 💼 Key Engineering Capabilities
 - **Interactive Force-Directed Network Topology:** Architected an interactive D3.js (v7) physics-driven graph representing 12 tier-partitioned banking assets (DMZ, Application, Secure Data, Third-Party) with real-time health degradation, dynamic threat infection conduits, and pan/zoom/drag controls.
 - **Defensive Capital Knapsack Optimizer:** Implemented a submodular greedy Knapsack optimization algorithm that maximizes mitigation efficacy across a constrained $1,000,000 capital budget and 10 enterprise controls, accounting for non-linear diminishing returns across multi-vector attack surfaces.
 - **Graph Theory & Systemic Risk Engine:** Built a systemic resilience engine employing Breadth-First Search (BFS) blast-radius calculation, degree centrality analysis, and single-point-of-failure (SPOF) identification to calculate real-time monetary exposure across transactional core ledgers and SWIFT gateways.
@@ -341,5 +341,5 @@ This platform is an **educational and risk modeling simulation environment** bui
 
 <p align="center">
   <strong>Developed by <a href="https://github.com/kittu7738">Anjan Prasad Cherukuthota</a></strong><br>
-  <em>Full-Stack Cybersecurity & Systems Engineering Portfolio</em>
+  <em>Cybersecurity & Systems Engineering</em>
 </p>
